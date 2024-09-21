@@ -19,7 +19,7 @@
 
 .product-page .rate .stars i {
   font-size: 12px;
-  color: #ffcd4e;
+  color: #e8f900;
   margin: 5px 5px 5px 0;
 }
 
@@ -52,7 +52,7 @@
 
 .product-page button.add {
   padding: 10px 15px;
-  background-color: #0f3460;
+  background-color: #000000;
   color: white;
   font-size: 17px;
   border-radius: 7px;

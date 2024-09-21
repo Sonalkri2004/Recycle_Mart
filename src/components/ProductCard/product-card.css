@@ -9,7 +9,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background: #0f3460;
+    background: #000000;
     padding: 3px 10px;
     font-size: 12px;
     border-radius: 50px;
@@ -18,7 +18,7 @@
 }
 
 .product {
-    background: #fff;
+    background: #a07aeb;
     padding: 20px;
     position: relative;
     border-radius: 8px;
@@ -35,7 +35,7 @@
 
 .product .rate i {
     font-size: 15px;
-    color: #ffcd4e;
+    color: #f5f102;
     margin: 5px 5px 5px 0;
 }
 
