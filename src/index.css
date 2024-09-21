@@ -106,7 +106,7 @@ button {
 }
 
 .cart-items .cart-total {
-  background-color: white;
+  background-color: rgb(236, 234, 239);
   padding: 20px;
   height: 150px;
   margin-bottom: 30px;
