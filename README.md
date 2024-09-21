@@ -13,7 +13,7 @@ An E-commerce website for the epic people who can shop all their basic to advanc
 - In Item page user can add quantity of item to cart instead of click add more and more 
 
 ## 🚀 What technologies were used?
-
+- html,css,js
 - react.js (create-react-app)
 - react-dom-router
 - react-bootstrap
