@@ -40,8 +40,8 @@ const Footer = () => {
           <Col md={3} sm={5} className="box">
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Jaunpur, UP, 276201,</li>
-              <li>Email: epicart.help@gmail.com</li>
+              <li> Azamgarh, UP, 276201,</li>
+              <li>Email: recyclemart.help@gmail.com</li>
               <li>Phone: +91 9825678980</li>
             </ul>
           </Col>
